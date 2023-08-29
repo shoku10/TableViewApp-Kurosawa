@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		CE5451462A9B23FF006AACFF /* TableViewApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TableViewApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE5451462A9B23FF006AACFF /* TableViewApp-Kurosawa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TableViewApp-Kurosawa.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE5451492A9B23FF006AACFF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CE54514B2A9B23FF006AACFF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		CE54514D2A9B23FF006AACFF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -52,7 +52,7 @@
 		CE5451472A9B23FF006AACFF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CE5451462A9B23FF006AACFF /* TableViewApp.app */,
+				CE5451462A9B23FF006AACFF /* TableViewApp-Kurosawa.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -76,9 +76,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		CE5451452A9B23FF006AACFF /* TableViewApp */ = {
+		CE5451452A9B23FF006AACFF /* TableViewApp-Kurosawa */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CE54515A2A9B2402006AACFF /* Build configuration list for PBXNativeTarget "TableViewApp" */;
+			buildConfigurationList = CE54515A2A9B2402006AACFF /* Build configuration list for PBXNativeTarget "TableViewApp-Kurosawa" */;
 			buildPhases = (
 				CE5451422A9B23FF006AACFF /* Sources */,
 				CE5451432A9B23FF006AACFF /* Frameworks */,
@@ -88,9 +88,9 @@
 			);
 			dependencies = (
 			);
-			name = TableViewApp;
+			name = "TableViewApp-Kurosawa";
 			productName = TableViewApp;
-			productReference = CE5451462A9B23FF006AACFF /* TableViewApp.app */;
+			productReference = CE5451462A9B23FF006AACFF /* TableViewApp-Kurosawa.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -108,7 +108,7 @@
 					};
 				};
 			};
-			buildConfigurationList = CE5451412A9B23FF006AACFF /* Build configuration list for PBXProject "TableViewApp" */;
+			buildConfigurationList = CE5451412A9B23FF006AACFF /* Build configuration list for PBXProject "TableViewApp-Kurosawa" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -121,7 +121,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CE5451452A9B23FF006AACFF /* TableViewApp */,
+				CE5451452A9B23FF006AACFF /* TableViewApp-Kurosawa */,
 			);
 		};
 /* End PBXProject section */
@@ -347,7 +347,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		CE5451412A9B23FF006AACFF /* Build configuration list for PBXProject "TableViewApp" */ = {
+		CE5451412A9B23FF006AACFF /* Build configuration list for PBXProject "TableViewApp-Kurosawa" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CE5451582A9B2402006AACFF /* Debug */,
@@ -356,7 +356,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CE54515A2A9B2402006AACFF /* Build configuration list for PBXNativeTarget "TableViewApp" */ = {
+		CE54515A2A9B2402006AACFF /* Build configuration list for PBXNativeTarget "TableViewApp-Kurosawa" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CE54515B2A9B2402006AACFF /* Debug */,
